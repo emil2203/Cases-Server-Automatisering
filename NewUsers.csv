@@ -1,0 +1,5 @@
+GivenName,Surname,SamAccountName,OU,Department,Email,Groups,TempPassword
+Anna,Hansen,ahansen,"OU=TestUsers,DC=Mathias,DC=local",IT,anna.hansen@Mathias.local,"GGIT;GG-FileShare-IT",P@ssw0rd!
+Bo,Nielsen,bnielsen,"OU=TestUsers,DC=Mathias,DC=local",Sales,bo.nielsen@Mathias.local,"GGSales",P@ssw0rd!
+Carla,Østergaard,costergaard,"OU=TestUsers,DC=Mathias,DC=local",Ops,carla.ostergaard@Mathias.local,"GG-Operations",P@ssw0rd!
+Emil,Olsen,eolsen,"OU=TestUsers,DC=Mathias,DC=local",,emil.olsen@Mathias.local,"GGIT;GG-FileShare-IT",P@ssw0rd!
