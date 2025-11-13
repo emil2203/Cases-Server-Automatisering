@@ -1,0 +1,5 @@
+"SamAccountName","GivenName","Surname","Status"
+"ahansen","Anna","Hansen","EXISTS (updated with -WhatIf)"
+"bnielsen","Bo","Nielsen","EXISTS (updated with -WhatIf)"
+"costergaard","Carla","?stergaard","EXISTS (updated with -WhatIf)"
+"eolsen","Emil","Olsen","EXISTS (updated with -WhatIf)"
